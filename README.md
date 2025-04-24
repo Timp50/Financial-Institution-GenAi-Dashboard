@@ -17,4 +17,4 @@ This project was independently developed by **Timothy Pittman** as a proof of co
 
 ---
 
-**Note:** This project was **hand-built**
+![d1c385ec-ff6b-4aaf-a2af-f190591d12bc](https://github.com/user-attachments/assets/8c4b5de5-7f31-41c3-b46a-7997fe58fb15)
