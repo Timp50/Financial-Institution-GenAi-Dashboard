@@ -13,7 +13,7 @@ This project was independently developed by **Timothy Pittman** as a proof of co
 ### Files:
 - `banking_feedback_app.py` – Streamlit dashboard source code
 - `customer_reviews.csv` – Sample dataset (simulated)
-- `Banking_Feedback_Dashboard_Summary_Timothy_Pittman.pdf` – 1-page project summary
+- `Banking Customer Feedback AI Dashboard Summary.pdf` – 1-page project summary
 
 ---
 
