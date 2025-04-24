@@ -1,0 +1,101 @@
+review,topic,sentiment,polarity
+I love the ATM reliability. It's been super reliable!,ATM reliability,positive,0.4583333333333333
+The mobile check deposit has improved so much lately. Great job!,mobile check deposit,positive,1.0
+The account lockout is always causing issues. Very frustrating.,account lockout,negative,-0.52
+Really disappointed with the branch availability.,branch availability,negative,-0.75
+Not sure how I feel about the high banking fees.,high banking fees,neutral,-0.045
+Terrible experience with the account setup. Needs fixing ASAP.,account setup,negative,-1.0
+Not sure how I feel about the customer service wait time.,customer service wait time,neutral,-0.25
+The account setup works fine most of the time.,account setup,neutral,0.45833333333333337
+Really disappointed with the online banking features.,online banking features,negative,-0.75
+Terrible experience with the online banking features. Needs fixing ASAP.,online banking features,negative,-1.0
+The fraud protection issues is always causing issues. Very frustrating.,fraud protection issues,negative,-0.52
+Really disappointed with the customer service wait time.,customer service wait time,negative,-0.75
+I love the ATM reliability. It's been super reliable!,ATM reliability,positive,0.4583333333333333
+The account setup has improved so much lately. Great job!,account setup,positive,1.0
+Really disappointed with the branch availability.,branch availability,negative,-0.75
+Terrible experience with the customer service wait time. Needs fixing ASAP.,customer service wait time,negative,-1.0
+I love the online banking features. It's been super reliable!,online banking features,positive,0.4583333333333333
+"The fraud protection issues is okay. Could be better, could be worse.",fraud protection issues,neutral,0.19999999999999998
+Really disappointed with the online banking features.,online banking features,negative,-0.75
+Terrible experience with the online banking features. Needs fixing ASAP.,online banking features,negative,-1.0
+Terrible experience with the ATM reliability. Needs fixing ASAP.,ATM reliability,negative,-1.0
+Terrible experience with the fraud protection issues. Needs fixing ASAP.,fraud protection issues,negative,-1.0
+Really disappointed with the mobile check deposit.,mobile check deposit,negative,-0.75
+The high banking fees is always causing issues. Very frustrating.,high banking fees,negative,-0.18
+Not sure how I feel about the fraud protection issues.,fraud protection issues,neutral,-0.25
+The account lockout is always causing issues. Very frustrating.,account lockout,negative,-0.52
+I love the fraud protection issues. It's been super reliable!,fraud protection issues,positive,0.4583333333333333
+I love the mobile check deposit. It's been super reliable!,mobile check deposit,positive,0.4583333333333333
+Really disappointed with the account lockout.,account lockout,negative,-0.75
+The mobile check deposit is always causing issues. Very frustrating.,mobile check deposit,negative,-0.52
+Terrible experience with the account setup. Needs fixing ASAP.,account setup,negative,-1.0
+I love the online banking features. It's been super reliable!,online banking features,positive,0.4583333333333333
+Really happy with the customer service wait time. Great experience!,customer service wait time,positive,0.9
+I love the online banking features. It's been super reliable!,online banking features,positive,0.4583333333333333
+Really disappointed with the branch availability.,branch availability,negative,-0.75
+Really happy with the branch availability. Great experience!,branch availability,positive,0.9
+Terrible experience with the online banking features. Needs fixing ASAP.,online banking features,negative,-1.0
+Really happy with the online banking features. Great experience!,online banking features,positive,0.9
+Terrible experience with the customer service wait time. Needs fixing ASAP.,customer service wait time,negative,-1.0
+I love the mobile app crashes. It's been super reliable!,mobile app crashes,positive,0.4583333333333333
+Terrible experience with the online banking features. Needs fixing ASAP.,online banking features,negative,-1.0
+Not sure how I feel about the mobile app crashes.,mobile app crashes,neutral,-0.25
+The account lockout works fine most of the time.,account lockout,neutral,0.45833333333333337
+Terrible experience with the mobile app crashes. Needs fixing ASAP.,mobile app crashes,negative,-1.0
+Not sure how I feel about the mobile check deposit.,mobile check deposit,neutral,-0.25
+Terrible experience with the customer service wait time. Needs fixing ASAP.,customer service wait time,negative,-1.0
+Terrible experience with the online banking features. Needs fixing ASAP.,online banking features,negative,-1.0
+Terrible experience with the online banking features. Needs fixing ASAP.,online banking features,negative,-1.0
+Terrible experience with the branch availability. Needs fixing ASAP.,branch availability,negative,-1.0
+Not sure how I feel about the account setup.,account setup,neutral,-0.25
+Really disappointed with the fraud protection issues.,fraud protection issues,negative,-0.75
+Not sure how I feel about the mobile app crashes.,mobile app crashes,neutral,-0.25
+Really disappointed with the ATM reliability.,ATM reliability,negative,-0.75
+The high banking fees works fine most of the time.,high banking fees,neutral,0.35888888888888887
+Terrible experience with the high banking fees. Needs fixing ASAP.,high banking fees,negative,-0.42
+The high banking fees has improved so much lately. Great job!,high banking fees,positive,0.58
+"The ATM reliability is okay. Could be better, could be worse.",ATM reliability,neutral,0.19999999999999998
+The account setup is always causing issues. Very frustrating.,account setup,negative,-0.52
+The ATM reliability is always causing issues. Very frustrating.,ATM reliability,negative,-0.52
+The fraud protection issues works fine most of the time.,fraud protection issues,neutral,0.45833333333333337
+Really disappointed with the fraud protection issues.,fraud protection issues,negative,-0.75
+Really disappointed with the mobile app crashes.,mobile app crashes,negative,-0.75
+The mobile app crashes is always causing issues. Very frustrating.,mobile app crashes,negative,-0.52
+The account lockout has improved so much lately. Great job!,account lockout,positive,1.0
+Terrible experience with the customer service wait time. Needs fixing ASAP.,customer service wait time,negative,-1.0
+Terrible experience with the branch availability. Needs fixing ASAP.,branch availability,negative,-1.0
+The high banking fees has improved so much lately. Great job!,high banking fees,positive,0.58
+I love the ATM reliability. It's been super reliable!,ATM reliability,positive,0.4583333333333333
+Really disappointed with the fraud protection issues.,fraud protection issues,negative,-0.75
+I love the high banking fees. It's been super reliable!,high banking fees,positive,0.35888888888888887
+Terrible experience with the high banking fees. Needs fixing ASAP.,high banking fees,negative,-0.42
+Really disappointed with the mobile check deposit.,mobile check deposit,negative,-0.75
+Terrible experience with the online banking features. Needs fixing ASAP.,online banking features,negative,-1.0
+Terrible experience with the branch availability. Needs fixing ASAP.,branch availability,negative,-1.0
+I love the ATM reliability. It's been super reliable!,ATM reliability,positive,0.4583333333333333
+Terrible experience with the mobile app crashes. Needs fixing ASAP.,mobile app crashes,negative,-1.0
+Really happy with the mobile app crashes. Great experience!,mobile app crashes,positive,0.9
+Not sure how I feel about the mobile check deposit.,mobile check deposit,neutral,-0.25
+The mobile app crashes has improved so much lately. Great job!,mobile app crashes,positive,1.0
+The mobile check deposit is always causing issues. Very frustrating.,mobile check deposit,negative,-0.52
+The customer service wait time has improved so much lately. Great job!,customer service wait time,positive,1.0
+Not sure how I feel about the account setup.,account setup,neutral,-0.25
+Terrible experience with the mobile check deposit. Needs fixing ASAP.,mobile check deposit,negative,-1.0
+Terrible experience with the account setup. Needs fixing ASAP.,account setup,negative,-1.0
+The branch availability is always causing issues. Very frustrating.,branch availability,negative,-0.52
+"The account lockout is okay. Could be better, could be worse.",account lockout,neutral,0.19999999999999998
+Really disappointed with the customer service wait time.,customer service wait time,negative,-0.75
+Really disappointed with the high banking fees.,high banking fees,negative,-0.295
+The high banking fees has improved so much lately. Great job!,high banking fees,positive,0.58
+The fraud protection issues is always causing issues. Very frustrating.,fraud protection issues,negative,-0.52
+Not sure how I feel about the high banking fees.,high banking fees,neutral,-0.045
+The ATM reliability has improved so much lately. Great job!,ATM reliability,positive,1.0
+Terrible experience with the online banking features. Needs fixing ASAP.,online banking features,negative,-1.0
+The branch availability is always causing issues. Very frustrating.,branch availability,negative,-0.52
+"The account lockout is okay. Could be better, could be worse.",account lockout,neutral,0.19999999999999998
+The high banking fees is always causing issues. Very frustrating.,high banking fees,negative,-0.18
+Really disappointed with the customer service wait time.,customer service wait time,negative,-0.75
+The account lockout works fine most of the time.,account lockout,neutral,0.45833333333333337
+Terrible experience with the branch availability. Needs fixing ASAP.,branch availability,negative,-1.0
+The account setup is always causing issues. Very frustrating.,account setup,negative,-0.52
