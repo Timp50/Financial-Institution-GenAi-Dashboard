@@ -1,9 +1,9 @@
-# Financial-Institution-GenAi-Dashboard
+# Financial-Institution-Dashboard
 AI-powered feedback analysis dashboard for financial institutions – created independently for interview prep
 
-#  GenAI Dashboard (Demo)
+#  Dashboard (Demo)
 
-This project was independently developed by **Timothy Pittman** as a proof of concept for an AI-powered customer feedback dashboard, tailored for financial institutions.
+This project was developed by **Timothy Pittman** as a proof of concept for an AI-powered customer feedback dashboard, tailored for financial institutions.
 
 ### Project Highlights:
 - Uses NLP to analyze customer review sentiment and uncover pain points
@@ -20,3 +20,13 @@ This project was independently developed by **Timothy Pittman** as a proof of co
 ![69ec0f39-4c9d-44b7-908b-483ea57c18ce](https://github.com/user-attachments/assets/81089397-cdfa-4949-851a-88cc7e94eb9c)
 ![9ce2b54a-2357-47a2-a930-1f46900f2f77](https://github.com/user-attachments/assets/89f0a153-acf6-4d74-be43-8642501a1f6e)
 ![94e2c46c-55c5-44cb-99cd-fd54fa2101b6](https://github.com/user-attachments/assets/e0c8aacf-61c6-47c8-89e9-4cca92ee2295)
+
+### Use Case
+Large financial institutions like Truist collect massive volumes of unstructured customer feedback — from surveys, app reviews, call transcripts, and support tickets.
+
+Traditional analytics teams struggle to:
+-Manually synthesize trends across thousands of entries
+-Quickly extract themes tied to customer sentiment
+-Provide real-time insights to business leaders
+
+**While this prototype simulates a GenAI response, it represents a real use case for LLMs in enterprise banking — helping executives quickly surface insights from unstructured customer feedback. I built this to showcase that vision clearly**
