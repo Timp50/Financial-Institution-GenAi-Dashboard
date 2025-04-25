@@ -11,10 +11,10 @@ This project was developed by **Timothy Pittman** as a proof of concept for an A
 - Includes a simulated Generative AI assistant for executive Q&A use cases
 ### Prework 
 **Data engineer unstructured feedback from multiple sources:**
-App store reviews
-Call center transcripts
-Survey open-ended questions
-Support emails/tickets
+-App store reviews
+-Call center transcripts
+-Survey open-ended questions
+-Support emails/tickets
 
 ### Files:
 - `banking_feedback_app.py` – Streamlit dashboard source code
