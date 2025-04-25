@@ -1,5 +1,5 @@
 # Financial-Institution-Dashboard
-AI-powered feedback analysis dashboard for financial institutions – created independently for interview prep
+AI-powered feedback analysis dashboard for financial institutions 
 
 #  Dashboard (Demo)
 
